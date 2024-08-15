@@ -29,16 +29,14 @@ Two datasets were generated using LLMs:
 - Appointment Confirmations
 - Wrong number
 
-Both datasets are publicly available in this repository.
-
-### Models Trained:
-- LSTM
-- BiLSTM
-- GRU
-- BiGRU
-- CNN
-- BERT
-
+The dataset and models for this project are available on [[Hugging Face](https://huggingface.co/)]. You can download them directly using the links below:
+- **Dataset**: 
+  - [Single Agent Scam Conversations](https://huggingface.co/datasets/BothBosu/single-agent-scam-conversations)
+  - [Multi Agent Scam Conversations](https://huggingface.co/datasets/BothBosu/multi-agent-scam-conversation)
+  - [YouTube Scam Conversations](https://huggingface.co/datasets/BothBosu/youtube-scam-conversations)
+- **Trained Model**: 
+  - [Trained Scam Detection Model](https://huggingface.co/collections/BothBosu/synthetic-data-for-scam-detection-66bd8c555bdd611f9af82511)
+  
 ### Results
 
 Below are the plots illustrating the performance of various models:
@@ -67,14 +65,29 @@ Below are the plots illustrating the performance of various models:
 **YouTube Video Dataset with only Suspect (Trained on Multi-Agent Dataset):**
 ![Model Accuracy vs  Number of Turns with only Suspect on Youtube Videos (Trained on Multi-Agent Datset)](https://github.com/user-attachments/assets/65b27aa1-81da-41cd-907c-21fe3f07ece8)
 
+### Conclusion 
+This research demonstrates that deep learning models trained entirely on synthetic data can effectively detect scam conversations, even from limited information such as only the suspect's messages. This privacy-preserving approach is highly applicable in real-world scenarios, allowing telecom companies and messaging platforms to detect potential fraud without processing full conversations. Future research should focus on expanding the diversity of synthetic datasets and further improving model architectures to support real-time scam detection systems.
+
 ### Clone the repository:
 ```bash
 git clone https://github.com/yourusername/scam-detection-using-synthetic-data.git
 cd Synthetic-Data-for-Scam-Detection-Leveraging-LLMs-to-Train-Deep-Learning-Models
+```
 
 ### Install dependencies:
+```bash
 pip install -r requirements.txt
 ```
 
-### Citing:
-itation cite{gumphusiri2024}.
+## Citing This Work
+
+If you use this repo, please cite:
+
+```
+@inproceedings{gumphusiri2024,
+  title={Synthetic Data for Scam Detection: Leveraging LLMs to Train Deep Learning Models},
+  author={Gumphusiri, Pitipat and Triyason, Tuul},
+  year={2024},
+  booktitle={IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (under review)},
+}
+```
