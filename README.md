@@ -71,9 +71,12 @@ Below are the plots illustrating the performance of various models:
 ```bash
 git clone https://github.com/yourusername/scam-detection-using-synthetic-data.git
 cd Synthetic-Data-for-Scam-Detection-Leveraging-LLMs-to-Train-Deep-Learning-Models
+'''bash
 
 ### Install dependencies:
+'''bash
 pip install -r requirements.txt
+'''bash
 
 ### Citing:
 @inproceedings{gumphusiri2024,
