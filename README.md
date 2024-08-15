@@ -70,9 +70,12 @@ Below are the plots illustrating the performance of various models:
 ### Clone the repository:
 ```bash
 git clone https://github.com/yourusername/scam-detection-using-synthetic-data.git
+cd Synthetic-Data-for-Scam-Detection-Leveraging-LLMs-to-Train-Deep-Learning-Models
 
+### Install dependencies:
 pip install -r requirements.txt
 
+### Citing:
 @inproceedings{gumphusiri2024,
   title={Synthetic Data for Scam Detection: Leveraging LLMs to Train Deep Learning Models},
   author={Gumphusiri, Pitipat and Triyason, Tuul},
