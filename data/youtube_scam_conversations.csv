@@ -1,0 +1,1035 @@
+dialogue,type,call,link,channel,labels
+"Innocent: Yes, hello.
+Suspect: Yes ma'am, are you there?
+Innocent: Is Kelvin there?
+Suspect: Yes ma'am, this is Kevin, the computer guy. You remember me?
+Innocent: Um, I think so. I maybe had talked to you the other day.
+Suspect: Yes ma'am. So first of all, I want you to join this call. This is in regards to your computer. As I already told you, the IP address of your computer has been compromised with some form.
+Innocent: Yes, that's what I was trying to do.
+Suspect: And ma'am, due to that, whatever data you have in your computer is totally hacked by the hackers, and they are downloading lots of unwanted errors and warning reports and viruses in your computer.
+Innocent: Wait, wasn't it talking to you last night?
+Suspect: Yes ma'am, yes. So ma'am, first of all, I want you to go ahead and be in front of your computer for a moment so that I can go ahead and show you the problem.
+Innocent: You don't sound as tired as you were yesterday.
+Suspect: No ma'am, no problem. Ma'am, I want you to go ahead and be in front of your computer for a moment again.
+Innocent: Yes, yes, yes, yes. Go ahead and turn it on.
+Suspect: Okay.
+Innocent: Ma'am, can you hear me?
+Suspect: Yes.
+Innocent: Who's Babu?
+Suspect: Ma'am, he's one of our...he's one of my colleagues.
+Innocent: All right, ma'am. So now, first of all, go ahead and turn on your computer and open your AnyDesk. Now click on accept. Do you see accept on your screen?
+Innocent: Um, no, I didn't. Hold on, honey. Hold on, you're going too fast. Who's Prahlad?
+Suspect: Yes, yes, this is me, this is me. No ma'am, my name is Kevin. All right, granny. So now look at the extreme right-hand side bottom corner of your computer screen. Can you see you are successfully connected to the Microsoft IT department?
+Innocent: Um, hold on, honey. Suspect: Look at here at the right-hand side bottom corner of your screen.
+Innocent: Yes, I see. Well, hold on, honey. Hold on, my granddaughter's texting me. Give me two seconds, okay? Just hold on, honey. Just give me two seconds. All right. Hold on, honey. Are you having a good day?
+Suspect: No, Not yet?
+Innocent: Why not?
+Suspect: Because I've been waiting for you for a long time.
+Innocent: I didn't mean no problem, you know.
+Suspect: Yes, yes.
+Innocent: And ma'am, are you living alone or are you staying with your family?
+Innocent: Well, I live alone.
+Suspect: Oh, that's good. All right, ma'am. So now, first of all, what I'm going to do, I'm going to show you the problem that is affecting your computer, all right? All right. ma'am. So now, just give me a moment. Actually, your computer is working a little bit slower, that is why.
+Innocent: Yes.
+Suspect: But you don't have to worry about it, ma'am. After today, your computer will run like a brand new machine, all right?
+Innocent: Oh, that's very kind of you, honey.
+Suspect: Ma'am, let me tell you something, ma'am. Those red color errors, each one contains somewhere around 700 to 800 viruses on it. And they have the ability to keep on multiplying by themselves whether your computer is on or off, all right?
+Innocent: Oh my lord.
+Suspect: So first of all, what I'm going to do, I'm going to close this page because this page is no longer safe for your computer. So now, I am going to show you the active connections on your computer, all right?
+Innocent: Okay.
+Suspect: So ma'am, these are the local IP addresses through which you use your internet, ma'am. And if you just look over here, can you see these foreign addresses?
+Innocent: Yes, how did you see all of these?
+Suspect: Ma'am, I am going to show you the problem, ma'am, because we are technicians, ma'am. So now these are the foreign IP addresses that are currently connected to your computer, ma'am. And if you look at the state, can you see all of them are established on your computer? Can you see?
+Innocent: Yes.
+Suspect: So now over here, what I'm going to show you is how we got to know about your problem, all right?
+Innocent: All right.
+Suspect: So now at the bottom, can you see this transmit fail, general failure? Can you see that right?
+Innocent: Yes.
+Suspect: And ma'am, if you just look over here, can you see packet sent four, received zero, lost 400%? Can you see that?
+Innocent: Yes.
+Suspect: That means, ma'am, we are trying to send you regular security updates on your computer but your computer didn't receive any security updates from our end. That is the main thing.
+Innocent: Is it because of something that I did?
+Suspect: No ma'am, it's not your fault, not your computer's fault. Actually, there are some issues on the server. This is the reason your computer got hacked. That is why. Actually, that is the reason your computer didn't receive on-time security updates on your computer. That is the reason, ma'am. And now let me go ahead and show you like how many people are currently connected to your computer, all right?
+Innocent: Okay, I'm kind of nervous.
+Suspect: You don't have to worry about anything, granny. Today I'm calling you just to solve all your problems. You don't have to worry about anything, granny, all right?
+Innocent: Okay, honey. How did you learn how to do all this stuff, by the way?
+Suspect: We were senior certified technicians on Microsoft. So ma'am, first of all, tell me, apart from this computer, how many devices do you have? Do you have any other computer or any laptop or anything?
+Innocent: I just have this one.
+Suspect: All right, ma'am. But if you just look over here, can you see current connection?
+Innocent: Yes, I see that.
+Suspect: Yes, and that means, can you see router solicitations? Router neighbor solicitations? That means that with the help of your IP address, they are also trying to send unwanted solicitations and unwanted advertisements to your neighbor's IP address as well. They also want to hack the IP address of your neighbor's IP address as well with the help of your IP address. And all that kind of hacking, ma'am, they already hacked you. With the help of your IP address, they are also trying to send unwanted solicitations and unwanted advertisements to your neighbor's IP address as well, just to hack their IP address. What I am going to do, I am going to run a quick scan on your computer. And with the help of this scan, we will get a response from our main server about what is actually happening with the computer, all right?
+Innocent: Okay, and how long does that take?
+Suspect: It will hardly take two to three minutes to scan. Okay, can you see this? Most of the services which are provided by the Microsoft Corporation have stopped working on your computer. Can you see that, ma'am?
+Innocent: Yes.
+Suspect: Once again, I am going to run a quick scan on your computer.
+Innocent: Okay.
+Suspect: All right, with the help of this scan, we will get a response from our main server about what needs to be done in order to get this computer fixed, all right?
+Innocent: Okay, honey.
+Suspect: All right, ma'am, just give me a moment. Let me run the scan and once the scan has stopped, then we will get a response about what needs to be done in order to get this computer fixed, all right?
+Innocent: Okay, honey.
+Suspect: All right, ma'am, can you see the scan has started?
+Innocent: Yes.",support,outgoing,Scammer BEGS For His Deleted Files As I Drink His Tears (youtube.com),Scammer Payback,1
+"Suspect: Your Geek Squad subscription is upgraded to the premium version. That is why you have been charged for it, ma'am.
+
+Innocent: Is there any way to cancel that and get back down to the original?
+
+Suspect: Yes, ma'am, we have options. Also, you can activate a $20 plan.
+
+Innocent: Oh, a $20 plan sounds good. I wouldn't mind that. I don't need the premium. Suspect: So, you want it to be canceled?
+
+Innocent: Oh, 100% yeah, if I can get that.
+
+Suspect: Can you cancel it?
+
+Innocent: This is odd. I only shop at Best Buy in the United States, but I do buy my maple syrup from Canada. Canada's got better maple syrup. I'm sorry, USA, but you know, I'm very patriotic and everything, believe in all the Amendments and such. Our friends from the north have it down, they know how to squeeze the maple from the tree just right.
+
+Suspect: I can understand, ma'am. Just go to the United States website and you will get to see a cancellation option on the top of the Home Server.
+
+Innocent: I see all these right here. Suspect: Do you see the terms and conditions of the Better Business Bureau there?
+
+Innocent: Yes, I see this and the Attorney General. Oh, well, I didn't know they had the Attorney General involved in this situation here. They are in charge of supervising and overseeing all these funds related to our business operations. You will be disconnected from the technical service and routed through the billing service server for a prompt refund in accordance with the Better Business Bureau policy. I don't know what that means, but I guess I'm agreeing to that. If you are in agreement with everything mentioned above and you have no other questions, click agree and move to the next section. Oh, hold on, hold on. I can't agree to this without—I think there's something wrong with the server. I can't agree. It won't let me agree to six and disagree with that one, so if I agree to six, it won't let me agree on seven because it says I have to agree to everything above. I can't disagree or agree with this.
+
+Suspect: You have to age, ma'am.
+
+Innocent: Well, I can't agree with it. I'm telling you right now, I think there's an issue. When I agree to number seven, it takes off number six. I can't agree to both.
+
+Suspect: Only number seven will be agreed, number six will be blank. Scroll down a little bit and you will get to see a continue option.
+
+Innocent: Continue? Okay.
+
+Suspect: You have to fill out the cancellation form.
+
+Innocent: No, that's all right. You said your name was Stark, right? S-T-A-R-K, Stark?
+
+Suspect: Yes, ma'am. You have to write in the feedback that you want to cancel. You have to type in the feedback.
+",support,outgoing,"Incompetent Scammer Sends Me $25,000 (youtube.com)",Rinoa Poison,1
+"Suspect: Cancellation department, how may I help you? Oh yeah, this call is about your computer service that just expired, that's why your account has been charged $400. So do you want to cancel it or do you want to renew it?
+
+Innocent: Uh, no, I want to cancel it.
+
+Suspect: Okay, not a problem. So if you want to cancel the service and stop the statement, what you need to do is follow the corporate process so I can help you cancel the service and we can refund the money. First of all, in order to cancel, you need to fill out the cancellation form on your computer. So, is your computer on right now? Are you in front of your computer?
+
+Innocent: Yeah, what site do I go to?
+
+Suspect: Okay, and can you please confirm what do you see on your computer right now? What do you see?
+
+Innocent: Okay, I see my desktop.
+
+Suspect: Do one thing, sir, can you look at your typing keyboard? On the keyboard, the left-hand side, bottom corner, do you see the Ctrl key?
+
+Innocent: Well, of course.
+
+Suspect: And next to the Ctrl key, which key do you see over there?
+
+Innocent: Are we playing a game? What do you need?
+
+Suspect: You can see the Ctrl key, correct? On the keyboard, the left-hand side. And next, right to the Ctrl key, can you please confirm which key do you see over there?
+
+Innocent: I see the Windows key. Now it's my turn, what key do you see next to the Windows key?
+
+Suspect: You need to press the Windows key and the letter R, R like Romeo. Press the Windows key and the letter R at the same time. And after that, what do you see?
+
+Innocent: You're changing it up on me. Okay, I thought we were gonna play a game. You're supposed to go, ""Do you see the Tab button?"" And then I'm supposed to say yes. You're supposed to say, ""Do you see it? What's beside the Tab?"" And I'm going to say Q, and then you're going to say W, E, and then...
+
+Suspect: Okay, let's get back on track. You have the Run box open, correct?
+
+Innocent: Yes, I have the Run box open.
+
+Suspect: And you can type in the Run box. Type www.techsupport.us.
+
+Innocent: www.techsupport.us?
+
+Suspect: Yes, that's correct. T-E-C-H-S-U-P-P-O-R-T dot U-S. Then hit Enter.",support,outgoing,Scammer Gets Really Angry... Must See [scambaiting] (youtube.com),scambait tv,1
+"Suspect: Thank you for calling support. How can I help you?
+
+Innocent: Hi there, sir. I'm seeing a pop-up message on my screen.
+
+Suspect: Okay, can you please read it for me?
+
+Innocent: The message says, ""Virus Alert from Microsoft. This computer is blocked. Do not close this window and restart your computer. Your computer's registration key is blocked.""
+
+Suspect: What exactly were you doing when you got this pop-up?
+
+Innocent: Just trying to use the internet as normal.
+
+Suspect: Okay, can you please help me out with your complete name?
+
+Innocent: Yes, it's Benjamin Kenneth Lord.
+
+Suspect: Okay, perfect. And what will be the best callback number to reach you if we get disconnected?
+
+Innocent: The best callback number is 346-595-1584.
+
+Suspect: Correct, 346-595-1584?
+
+Innocent: Yes.
+
+Suspect: Okay, Benjamin, I'm just guiding you through a few steps that you need to do so that I can connect you with our Microsoft secured server. Then I'll go ahead and see what exactly the problem you're facing, okay?
+
+Innocent: Okay, that sounds great.
+
+Suspect: Do you have a laptop or a desktop?
+
+Innocent: It's a desktop.
+
+Suspect: Okay, perfect. Just be on your keyboard. On the left corner, you will see a logo of Microsoft Windows. Do you see it?
+
+Innocent: Yes, I see the Microsoft Windows logo.
+
+Suspect: Perfect. Just hold that button and press the letter R like in Romeo.
+
+Innocent: Okay, now I can see a small box that appeared on the bottom left corner of my desktop.
+
+Suspect: Okay, perfect. Now I'm just telling you the website from where I'll connect you with our Microsoft secure server. Just type in the box ""www.fastsupport.com"" and press the Enter key on your keyboard.
+
+Innocent: Okay, it's just loading up now. It says ""Establish Support Connection.""
+
+Suspect: Perfect. Now you will see it asking you to put your complete name and support key numbers, which are nine digits.
+
+Innocent: Yes, I see that.
+
+Suspect: Okay, let's use a different tool since this one might be having issues. Please open your browser again and type ""www.teamviewer.com"" and press Enter.
+
+Innocent: Okay, I've done that. It's showing ""TeamViewer: The Remote Connectivity Software.""
+
+Suspect: Perfect. You will see a download button. Click on ""Download for free.""
+
+Innocent: Okay, it's just downloading now.
+
+Suspect: At the bottom left corner of your desktop, you will see it downloading. When it's finished, you will see an arrow. Click on ""Open.""
+
+Innocent: Okay, it's downloaded. I'm clicking ""Open.""
+
+Suspect: Now, you will see an installation prompt. Click ""Install.""
+
+Innocent: It says it's installing now.
+
+Suspect: Perfect. Once it's installed, you will see the TeamViewer icon on your desktop. Open that icon.
+
+Innocent: Okay, it's installed and the icon is on my desktop. I'm opening it now.
+
+Suspect: Great. Now, it should show you an ID and a password. Please read those out to me so I can connect to your computer.
+
+Innocent: Yes, I see the ID and password. The ID is 123 456 789 and the password is xyz123.
+
+Suspect: Thank you. I will now connect to your computer to help resolve the issue. Please hold on for a moment while I establish the connection.",support,outgoing,Tech Support Scammer vs Linux Mint (youtube.com),Lewis's Tech,1
+"Suspect: Thank you for calling PayPal, how may I help you?
+
+Innocent: Um, I'm calling regarding an email you all sent me. It's for $629. I'm not entirely sure what this Bitcoin is.
+
+Suspect: Okay, you have a charge that was being made under your PayPal account buying some Bitcoins. You're telling me that's what it seems to be, yes, $629.99. So, you are telling me that you did not make that purchase?
+
+Innocent: Well, I definitely didn't make the purchase. What do I have to do to get it canceled?
+
+Suspect: So, did you log into your PayPal account anywhere?
+
+Innocent: I don't even have a PayPal account.
+
+Suspect: Okay, I just spoke with my department and they informed me that they've been getting these kinds of complaints. Some people are misusing others' information and creating accounts in PayPal, purchasing something sometimes on eBay, sometimes on Amazon, and in your case, this is Bitcoin. First of all, I want to make sure that you want me to put a hold on that transaction, right? You don't want me to let it go?
+
+Innocent: Yes, please put a hold on it.
+
+Suspect: I can see it here, it's under review and under your name, but it's not yet processed. We are putting a hold on it, and I have done it. I have put a hold on the transaction.
+
+Innocent: Thank you, I appreciate that.
+
+Suspect: Like you told me, you've never created a PayPal account, right?
+
+Innocent: No sir, never. Never once have I ever had a PayPal account.
+
+Suspect: Now, I'm asking you, have you used your information recently anywhere, like on a website, some bad websites, purchasing something like clothes or something, recently, within a week or two?
+
+Innocent: I did purchase some items on eBay about maybe two months ago.
+
+Suspect: Good for you that we have stopped it. The money that was being taken from you is with us now. We have put a hold on it, so it's not going to those people. The Bitcoins would not be purchased and it would be reflected on your statement within the next 10 to 12 hours. If you want, we can revert the funds that have been taken from you.
+
+Innocent: Yeah, please, that would be great, that would be lovely.
+
+Suspect: Okay, all right. So in order to do that, you would have to fill out a cancellation form. That would work as proof that we have helped you cancel the purchase and give you your money back. So, are you near a computer right now?
+
+Innocent: I'm actually in front of my computer right now as we speak.
+
+Suspect: Just open up your Google Chrome and I will give you a command that will help you connect to our secure server.
+
+Innocent: It's asking for an enter service code. Where am I finding this?",refund,outgoing,"Telling a Scammer I'm Keeping His $18,000 (youtube.com)",Rinoa Poison,1
+"Suspect: My name is Brad Williams. You called the cancellation department of Norton. Norton is an antivirus software that protects your computer. When you bought your computer, we provided the subscription and software. This software on your computer has expired, and today is the auto-renewal date. That’s why you received the email and your account has been charged. Now, it’s up to you whether you want to continue that or cancel it.
+
+Innocent: Uh, if I could cancel, I didn’t realize I was still subscribed. I didn’t know it came with the computer. Yeah, that would be fine if I could. Could I cancel it? What did you say your name was?
+
+Suspect: Give me a moment.
+
+Innocent: What did you say your name was?
+
+Suspect: No, I'm telling you, just be online with me.
+
+Innocent: Is your na""Be on the line for a moment,"" or can I have your name Suspect: and how much money has been charged? Madam, is it 400?
+
+Innocent: Yeah, it's $418. Can I have your name?
+
+Suspect: Yes, my name is Brad. Oh, very good afternoon to you, ma'am. How are you doing? This is William here.
+
+Innocent: Hi, how are you?
+
+Suspect: Yes, I'm doing fine as well, thank you for asking. Ma'am, your line got transferred to me.
+
+Innocent: Yes, what's your surname?
+
+Suspect: The pronunciation is like Bond. So, ma'am, let me just brief the things out to you. First thing, I believe my colleague who was talking to you explained why you are getting back your money and how you're going to get your funds back.
+
+Innocent: Honestly, he didn’t explain anything. So, if you want to fill me in, that would be wonderful because he just got me connected and then gave me his name and his badge ID, and then he transferred the call to you. Other than that, I haven’t really done anything. He did say that I will be helping you. I don't really know what's going on other than, ynow, when I bought the computer, it came with the service. Is that right? I wanted to get it canceled.
+
+Suspect: Absolutely. You can rest assured that I will be helping you to cancel this and make sure that you get your money reimbursed as well.
+
+Innocent: That sounds wonderful.
+
+Suspect: Now, first thing, ma'am, I'll just bring the things out to you on how we're going to do this. I'm going to read out the badge ID of Brad.
+
+Innocent: No, ma'am, I'm just asking you to listen to me for a couple of seconds. First thing, ma'am, we are not here to sell something to you, nor are we telemarketers.
+
+Innocent: I'm not interested in buying anything. That's why I wanted to get the service canceled. I told the other associate I wanted to cancel, and he asked if I wanted to continue with the service, and I told him no.
+
+Suspect: That is the main purpose, the sole reason we are talking today, ma'am, so that you can get back your money and we can ensure the services are canceled as well. So, ma'am, I will be helping you to cancel the subscription and make sure you get your money reimbursed without sharing or providing us with any of your personal banking information. And, ma'am, please, I will request this: please do not interrupt me. If you want to speak, you can, but while I am speaking, please do not interrupt me.
+
+Innocent: I wasn’t trying to interrupt you. I apologize if I came off as rude. I was just explaining the situation.
+
+Suspect: Thank you for that. As I was telling you, ma'am, we’ll make sure you get your money reimbursed. We will be directly reimbursing the money back into your checking acco",refund,outgoing,I Annoy Scammers into a Rage! (youtube.com),Rinoa Poison,1
+"Innocent: I don't want to renew it.
+
+Suspect: Okay, you just tell me your order ID number, sir.
+
+Innocent: There's an invoice number and the customer number. Which one do you need? And then there's another extra ID number.
+
+Suspect: The invoice number, sir.
+
+Innocent: Norton 115243853CX.
+
+Suspect: Okay, hold on a moment. I just need to check my records. Just give me a moment.
+
+Innocent: Yeah, hello?
+
+Suspect: Yes, thank you for holding the line, sir. Your invoice number is absolutely correct. You have an online cancellation form on your computer. Are you in front of your computer right now, sir?
+
+Innocent: Yeah, that's why I was reading the thing.
+
+Suspect: Okay, so which browser are you using? Do you have Google Chrome or Microsoft Edge?
+
+Innocent: Yes, Chrome.
+
+Suspect: Just open Google Chrome for me.
+
+Innocent: All right.
+
+Suspect: Now, do you see the search box at the very top on the left-hand side? Just type over there.
+
+Innocent: Okay.
+
+Suspect: Then type ""T"" as in Tiger.
+
+Innocent: That's ""T"" as in Tiger, I got it.
+
+Suspect: It's the letter ""T,"" ""T"" as in Tiger.
+
+Innocent: ""T"" as in Tiger, got it.
+
+Suspect: Then ""A"" as in Apple.
+
+Innocent: All right.
+
+Suspect: Then ""M"" as in Michael.
+
+Innocent: Okay.
+
+Suspect: Then ""V"" as in Victoria.
+
+Innocent: All right.
+
+Suspect: Then ""I"" as in Ice cream.
+
+Innocent: All right.
+
+Suspect: Then ""E"" as in Edward.
+
+Innocent: Okay.
+
+Suspect: Then ""W"" like in William.
+
+Innocent: All right.
+
+Suspect: Then ""E"" as in Edward.
+
+Innocent: Okay.
+
+Suspect: Then ""R"" as in Roger, then put a dot ""com"" C-O-M.
+
+Innocent: Oh, you said I got up to ""Team,"" and then you were talking fast. I'm a slow typer.
+
+Suspect: Okay, let's go again. ""T"" as in Tiger.
+
+Innocent: Got it.
+
+Suspect: ""E"" as in Edward.
+
+Innocent: Okay.
+
+Suspect: ""A"" as in Apple.
+
+Innocent: All right.
+
+Suspect: ""M"" as in Michael.
+
+Innocent: Okay.
+
+Suspect: ""V"" as in Victoria.
+
+Innocent: Got it.
+
+Suspect: ""I"" as in Ice cream.
+
+Innocent: All right.
+
+Suspect: ""E"" as in Edward.
+
+Innocent: Okay.
+
+Suspect: ""W"" like in William.
+
+Innocent: Got it.
+
+Suspect: ""E"" as in Edward.
+
+Innocent: Okay.
+
+Suspect: ""R"" as in Roger.
+
+Innocent: Got it.
+
+Suspect: Then dot ""com.""
+
+Innocent: Got it. TeamViewer.com, right?
+
+Suspect: Yes, hit the enter button on your keyboard, sir.
+
+Innocent: All right. Some kind of download thing?
+
+Suspect: Yeah, do you see that remote connectivity software? Do you see that?",refund,outgoing,Exposing The Norton Refund Scam Setup (youtube.com),Scammer Jammer,1
+"Suspect: This is Amazon, how may I help you?
+
+Innocent: Hi, yes, how are you doing today? I received a call about an order for an iPhone.
+
+Suspect: Yes, my name is Michael Nelson. How are you?
+
+Innocent: Oh, hello Michael. How are you doing?
+
+Suspect: Yeah, I'm fine, ma'am. Thanks for asking. Ma'am, I see there is an order in your Amazon account for an iPhone 11 worth $579.99.
+
+Innocent: My goodness, where? No, I didn't order that. Where's that being delivered to?
+
+Suspect: Ohio.
+
+Innocent: Oh my goodness, does somebody have my account? This happened once before, it was such a hassle. Oh no, can you cancel that order?
+
+Suspect: Yeah, go in front of your computer.
+
+Innocent: Actually, you know what, you said it was $579 for an iPhone 11?
+
+Suspect: It's $579.99.
+
+Innocent: Oh, even better. Can you tell me where it's being delivered to?
+
+Suspect: Ohio.
+
+Innocent: Can we change that to my house?
+
+Suspect: No, not to your house, ma'am. Tell me, what do you want?
+
+Innocent: Well, can we update the location? If it's going to Ohio, can we just switch it to my house because $579 for an iPhone is actually a really good deal. I was looking at one the other day.
+
+Suspect: Go in front of your computer.
+
+Innocent: Okay, if you want to hold on a second, I can get there.
+
+Suspect: Okay.
+
+Innocent: Okay, I'm in front of my computer now.
+
+Suspect: Yeah, what do you see on your computer?
+
+Innocent: I got all my icons, like Recycle Bin, Microsoft Edge, Music, Documents.
+
+Suspect: Do you see TeamViewer?
+
+Innocent: TeamViewer? I don't have TeamViewer. I don't see that. Suspect: Is there any Desk or UltraViewer?
+
+Innocent: No, I don't see anything like that. I see Dropbox. Would that work?
+
+Suspect: Do you have Google Chrome? Open it.
+
+Innocent: Yeah, I have that. You want me to open it?
+
+Suspect: Yes, open it.
+
+Innocent: Okay, there we go, now it's loaded. What do you want me to go to?
+
+Suspect: Supremo. S-U-P-R-E-M-O.
+
+Innocent: Can you do that a little bit slower? It's hard to hear.
+
+Suspect: S-U-P-R-E-M-O.
+
+Innocent: S-U-P-R-E-M-O.
+
+Suspect: Yes, Supremo. The best remote desktop.
+
+Innocent: Okay, I have it. It shows Supremo, the best remote desktop.
+
+Suspect: Open it.
+
+Innocent: Open it?
+
+Suspect: Yes, open it, ma'am.
+
+Innocent: Okay, I just did. I'm waiting for it now. It says, ""We use technical cookies."" Click on ""Accept.""
+
+Innocent: Okay, what are cookies? Do you know that?
+
+Suspect: Yeah, I see the download. Click on download.
+
+Innocent: What's the cookies though? I keep seeing that on the websites I go to.
+
+
+
+
+
+",refund,outgoing,The Amazon Scammers Are Absolutely Clueless And Fools PART 2 (youtube.com),Scammer Jammer,1
+"Suspect: Hello.
+
+Innocent: Yes?
+
+Suspect: Yes, you're speaking with Mr. Peter Anderson. How are you doing today?
+
+Innocent: Well, I'm doing just fine. How are you?
+
+Suspect: I'm fine, thank you. How may I direct your call?
+
+Innocent: Uh, did I win? Did I win the prize?
+
+Suspect: And who is this I'm speaking with? Do you have a confirmation number?
+
+Innocent: Yes, it's Joseph King.
+
+Suspect: Joseph King. And what's your confirmation number?
+
+Innocent: Where do I see that at? Didn't you receive an automated message letting you know that you're supposed to contact our head office with your confirmation?
+
+Innocent: Yeah, but I was at work. I work 90 hours a day, so I didn't get to jot it down.
+
+Suspect: All right, so what you could do is, give me one second while I check the system to see if I can find out what your confirmation number is. Could you state your name one more time, please?
+
+Innocent: Joseph King.
+
+Suspect: Joseph King. Hold the line.
+
+Suspect: Hello, Mr. Joe King?
+
+Innocent: Yes.
+
+Suspect: All right, Mr. Joe King. What I can see here is that your confirmation is 1108 U.S. You need to write down that confirmation because the next time you call and ask for it, we can't give it to you again. So, you have to write it down so you can remember it at all times, all right?
+
+Innocent: All right, let me grab a piece of pen and paper. I gotta open my desk drawer here. Okay... all right, this pen works.
+
+Suspect: Okay, so the first thing you're going to write down is my name. Get a good-sized piece of paper to write on so I can give you all the information, all right?
+
+Innocent: Oh, I have it. Is a legal pad good?
+
+Suspect: Oh, that's good. All right, the first thing you're going to write down is my name—Mr. Peter Anderson.
+
+Innocent: Peter Anderson.
+
+Suspect: Right, and next you're going to write down my badge number that I wear on my shirt at work. It's 454 P.A.
+
+Innocent: Peter Anderson, 454 P.A.
+
+Suspect: Beautiful, that's correct.
+
+Innocent: So, how much money did I win?
+
+Suspect: Oh my word, I will be gettg into that shortly. That's why I'm providing you with all this information, so you can understand that this isn't a runaround. Remember, there are a lot of schemes and frauds happening, so we want to make sure...
+
+Innocent: Oh no, I thought I won...
+
+Suspect: I'm going to call you on a better line because it seems like you're not hearing me quite right. Innocent: I'm just repeating back to you what you said—you said that you're a scheme and fraud, isn't that what you said? I'm a little bit hard of hearing.
+
+Suspect: No, I was telling you that this is not any scheme or fraud",reward,incoming,I Won $6.5 Million In Publishers Clearing House SCAM (youtube.com),Scammer Jammer,1
+"Suspect: Publisher Clearing House, James Anderson speaking.
+
+Innocent: Oh yes, I'm returning a message.
+
+Suspect: Did you get a call from our company?
+
+Innocent: Yes.
+
+Suspect: Okay, and did you get a claim code number? You need to provide me with the claim code number so I can check to see what is here for you. You're going to listen to your voicemail and get the claim code number and call me back, okay?
+
+Innocent: No, what I'm saying is your system didn't leave the number correctly. The connection was real bad. I don't know if it's because I'm a truck driver or what happened, but it ain't on there. I listened to it a bunch of times, it's all garbled.
+
+Suspect: Okay, provide me with your name, please.
+
+Innocent: It's David Smith.
+
+Suspect: Okay, I see where you are supposed to be receiving $2,800,000 with a 2021 Mercedes-Benz car. Congratulations! How are you feeling?
+
+Innocent: Oh, I feel real excited.
+
+Suspect: Okay, well today, Mr. David, I would not want you to be excited just yet. I need for you to be excited when you see this with your own eyes.
+
+Innocent: Okay, yes.
+
+Suspect: So are you home towards receiving?
+
+Innocent: Yes. Suspect: You got my name right down there?
+
+Innocent: Well, your phone broke up. This is what I was talking about. It's like I don't know if I'm in a bad cellular reception area, but can you say it again because the phone cut out when you were talking. Suspect: Do you have my name right down?
+
+Innocent: No, I didn't hear your name because the phone broke up.
+
+Suspect: Okay, and are you hearing me now?
+
+Innocent: I can hear you loud and clear, coming in 4x4, Big Trucker.
+
+Suspect: Okay, in order for you to receive your prize package, Mr. David, there's a government registration card that you have to purchase to show to the delivery team once they get to your home. The card you will be purchasing is to show to the delivery team as proof that you completed the 1% fee with the government so your check can be registered under your name and fully authorized in your state. You will be receiving a 100% tax-free check from our company because all your taxes have been completed with Bank of America and Publisher Clearing House. You also receive a benefit as the beneficiary.",reward,outgoing,I Won $2800000 And A Mercedes!! PCH Scam Exposed (youtube.com),Scammer Jammer,1
+"Suspect: Yeah, so are you hearing me?
+
+Innocent: Who is this?
+
+Suspect: Yeah, it's Mr. Asleepy from the Publishers Clearing House. Did you get my prize with the big check?
+
+Innocent: Right, that's what I was asking about. How are you doing? I tried to call you.
+
+Suspect: I can hear you now. Are you hearing me better now?
+
+Innocent: Yes.
+
+Suspect: All right, so what we're going to be doing today is getting you a certified cashier's check. We're going to write it out to the CPA, right?
+
+Innocent: No, I didn't hear anything about a certified... what? I went to the doctor this morning and they said it looks like I have necrotizing fasciitis and I might need my phalanges to be removed.
+
+Suspect: Oh my word. Can you still operate your hand?
+
+Innocent: Oh yeah, I'm scheduled for surgery on the 29nd of February. That's when they're gonna remove my phalanges, so I've got some time.
+
+Suspect: Okay, so what we're going to do today, my friend, is get you a certified cashier's check sent to the CPA so you can receive your prize on Monday, okay?
+
+Innocent: Yes. You said I needed to give you the Spartan, the vanilla-smelling one card, right? I was able to chip off more of the cardboard. It was a lot of blood and a lot of hard work, but I was able to get more of the card numbers for you. Do you have 84718542889? Did you get that much? I was able to see another nine.
+
+Suspect: Oh, so you did get all the cardboards off the...
+
+Innocent: No, I'm still working on chipping away the rest of it. I was able to clear out a nine, though. I can see a nine now.
+
+Suspect: Okay, put the card down. We're going to focus on something else today. We're going to focus on the certified check to be sent to the CPA so you can receive your prize. That's what we're working on today.
+
+Innocent: Pardon? Sending a what?
+
+Suspect: The certified check. Remember, you're getting a certified check for $25,000 sent to a CPA. So, what you're going to do is tell me when you're dressed and ready to go on the road.
+
+Innocent: Oh, all right.
+
+Suspect: All right, tell me when you're ready, because we're going to have everything done for you today.
+
+Innocent: All right, I just have to put my mumu on and my galoshes.",reward,incoming,PCH Scammer Wants $20000 For Decoration Stamp?! Part 4 (youtube.com),Scammer Jammer,1
+"Suspect: Thank you for calling. How may I help you?
+
+Innocent: Yes, my call was transferred. They said I won a $100 Walmart gift card.
+
+Suspect: Okay, don't worry. I can definitely help you with that. Just be on the line so I can pull up the information. Your number is qualified to receive a $100 Walmart gift card. You can not only use it at Walmart but also at Target, Home Depot, Best Buy, and other retail stores. This is a $100 card. You can go anywhere and buy anything. You don't have to pay any money over the counter. You just have to show them this $100 gift card, and the amount will be automatically deducted from your gift card.
+
+Innocent: Yes, it's a $100 Walmart gift card. It's supposed to be just for Walmart, right?
+
+Suspect: Right, it can be used at Walmart, but you can also use it at Target, Home Depot, Best Buy, and other retail stores. So, you can use it at Walmart and other places too.
+
+Innocent: Yes, that's fine. I was just concerned it's going to say Walmart on it, so if I go to Target, they may look at me like I'm kind of crazy.
+
+Suspect: Oh no, you can use it at Target, Walmart, Best Buy, or anywhere in any retail store. This $100 gift card can be used anywhere.
+
+Innocent: Okay.
+
+Suspect: So, sir, what we can do is send this gift card out to you now within four to five business days at your mailing address. Are you from the state of Vermont?
+
+Innocent: No, that's where my cell phone is from. Suspect: Could you please help me with your real mailing address, starting with your house number?
+
+Innocent: Yes, it's 2008 Wood Lot Lane, Brownsville, Texas, 78526.
+
+Suspect: It's Wood Lot Lane, Brownsville, Texas, right?
+
+Innocent: Yes.
+
+Suspect: Okay, just a second. I got it. It's 2008 Wood Lot Lane, Brownsville, Texas, 78526, right?
+
+Innocent: Yes.
+
+Suspect: So this gift card will be in your name so nobody can misuse your gift card. Could you please spell out your first and last name?
+
+Innocent: Yes, my first name is Bill. B-I-L-L.
+
+Suspect: And your last name?
+
+Innocent: Jones. J-O-N-E-S.",reward,outgoing,Walmart Gift Card Scam (youtube.com),scambait tv,1
+"Innocent: Yeah, this is James Smith.
+
+Suspect: How can I help you today?
+
+Innocent: It's James Smith. You called me. Suspect: What was the phone call about that you have received from our department Innocent: my social security.
+
+Suspect: All right, did you receive any kind of case ID or reference ID number from our department regarding this phone call?
+
+Innocent: Well, I am 87 years old and I couldn't make it out. I'm hard of hearing. Is this about my money that my wife left me? Because I paid taxes on all that money when she died.
+
+Suspect: All right. As I can see in my system, the reason you are contacted today was to inform you regarding some legal enforcement action. All right, so what I'm saying to you, your name has been registered for criminal activities. Do you have any knowledge about it, Mr. James Smith?
+
+Innocent: No, not guilty. What kind of criminal activity? I didn't do nothing. I'm 87 years old.
+
+Suspect: All right, I will give you all the information. This is Officer Eric Roger. My badge ID number is 321512. All right, so before I go ahead and give you some more information, I just need to verify your social security number once. All right, so I can give you the correct information which you are supposed to get from our department. All right?
+
+Innocent: What do you want?
+
+Suspect: Hello, verify me with your social security number. All right, Mr. James, just hold the line for a quick moment. Let me pull up your case file and let you know. Right. Hello there. Innocent: yes. Suspect: Do you have a piece of paper and pen handy with you so I can provide you my information too?
+
+Innocent: I can get one.
+
+Suspect: All right, once you're ready with the pen and paper, you let me know. All right, I'm holding for you.
+
+Innocent: All right, I'm ready.
+
+Suspect: All right, you write down my name, Officer Eric Roger. E-R-I-C. My first name is Eric, and my last name is Roger. R-O-G-E-R.
+
+Innocent: Uh-huh.
+
+Suspect: All right, my badge ID number is 321512.
+
+Innocent: What'd you say?
+
+Suspect: You got it? My badge ID number is 321512.
+
+Innocent: And you said your name was Eric?
+
+Suspect: Yes.",ssn,outgoing,Getting Social Security Scammers Angry (youtube.com),Scammer Jammer,1
+"Suspect: You have reached the security administration. How may I help you?
+
+Innocent: Ah yes, how are you doing today?
+
+Suspect: Yes, I am fine. Thank you for asking, ma'am. How are you doing today?
+
+Innocent: Uh, I could be better. I got a phone call from you all a little bit ago, and I'm trying to figure out what this is about.
+
+Suspect: All right, ma'am. So, did you receive any case ID number?
+
+Innocent: No, no, they just said to give a call back, so I'm calling right now.
+
+Suspect: All right, all right. So, can you help me with your name and your social security number so I can check in my system why you are receiving a call from our department, ma'am? Can you help me with that?
+
+Innocent: Yes, my name is Susie Erickins.
+
+Suspect: And what's your social security number?
+
+Innocent: The last four are 9712.
+
+Suspect: Ma'am, did I ask you for your last four digits? I asked you to verify your full social security number.
+
+Innocent: Well, I heard on the news that I shouldn't be giving my social security number out; only the last four that people need.
+
+Suspect: No, ma'am. I can't help you without the full number. Thank you, have a nice day.
+
+Innocent: So, then everything's okay?
+
+Suspect: No, ma'am. You are under investigation in Seattle. There are legal enforcement actions against your name and your social security number. We have an order to suspend your social on an immediate basis because your social has been found suspicious for committing some fraudulent activities in Seattle. I am not blaming you, miss. My duty is to inform you about your case.
+
+Innocent: All right, so did you receive my last name? It's Derkins.
+
+Suspect: All right, so Miss Derkins, did you receive any phone calls from your local police department regarding this case? Miss Derkins, I am not blaming you. My duty is to inform you about your case. Now, grab a pen and a piece of paper so I can provide you with some primary information about this case which you can write down. Once you're ready with the pen and paper, just let me know, ma'am. I am holding the line here.
+
+Innocent: Yeah, hold on. Let me go grab a sheet of paper and a pen real quick.
+
+Suspect: My name is Officer Robert Wilson. My first name is Robert, and my last name is Wilson. All right, so first of all, write down your case ID number. Ma'am, here I see there are 22 bank accounts under your name and 13 credit cards. Do you hold 22 bank accounts and 13 credit cards under your name?
+
+Innocent: One or two bank accounts? God, no! I only have one.
+
+Suspect: All right, all right. So, ma'am, first of all, let me pull out your asset verification form in order to differentiate which is your account and which is bogus. We will freeze all the bogus accounts under your name and social security number. I just need to ask you some basic information. I will not ask for any personal information like your bank account number, routing number, or credit card number. I just need some basic information to differentiate which is your account and which is bogus. Am I clear?
+
+Innocent: Yes, that makes sense, but who did all this? Do you know?
+
+Suspect: Ma'am, at this point in time, we don't know who the real suspect behind this case is. It could be anyone near you because someone has access to your personal information.
+
+Innocent: I don't even know anybody in Seattle. ",ssn,outgoing,SSA Scammer Wants To Take $10000 From Grandma (youtube.com),Scammer Jammer,1
+"Suspect: Thank you for calling the Social Security Administration. How can I help you?
+
+Innocent: Yeah, I was talking to a guy, and he said my social security number was suspended. Then, you must have had a bad phone connection, my phone cut out.
+
+Suspect: Oh, apologies. Let me just check what exactly is going on. Could you please help with your first name to pull up your details?
+
+Innocent: Yeah, it's James Friedrich.
+
+Suspect: Thank you, James. Just allow me to try to get into the system and check the details for you. Bear with me.
+
+Suspect: Hi, James. Thank you for staying on the line. Are you there with me?
+
+Innocent: Yes.
+
+Suspect: I have got some details for you. Do you have a pen and piece of paper handy with you?
+
+Innocent: Yes.
+
+Suspect: Yeah, could you please make a note of a few details I'm going to give you right now?
+
+Innocent: Yes.
+
+Suspect: So, you're talking to Officer Donald Jefferson in charge of your case.
+
+Innocent: Your phone broke up. What did you say? Officer who?
+
+Suspect: Yeah, this is Chief Officer Donald Jefferson. I'm in charge of the investigation department here at Social Security Administration. Can you hear me?
+
+Innocent: Yes, I'm listening.
+
+Suspect: All right, I thought I lost you. Okay, so please make a note of my federal ID.
+
+Innocent: Uh-huh.
+
+Suspect: G as in General, R as in Romeo, S as in Sierra, A as in Alpha, and the number 51185. That's my federal badge ID. The case file number I'm going to give you is F as in Frank, R as in Romeo, L as in Larry.
+
+Innocent: Now, your phone broke up again. It must be the lines crossed or something. Can you say that one more time?
+
+Suspect: Sure. The case file number is F as in Frank, R as in Romeo, L as in Larry, R as in Romeo, and the number 6374.
+
+Innocent: Uh-huh.
+
+Suspect: It's a case file showing up under your name, James Friedrich. What has happened is our U.S. Marshals patrolling the south border of Texas found an abandoned car registered under your socials. That car contained bloodstains and some drug residues in it. Have you happened to travel to the state of Texas by any chance?
+
+Innocent: No, I've never been there.
+
+Suspect: That's quite surprising because that car was registered under your name and your socials. So, I believe there are some suspicious activities going on. That is why we, as a team of the investigation department, opened up a case file and thought of informing you about this. That's the reason we're calling you because immediately we're going to go ahead and suspend your social security number.
+
+Innocent: Your phone broke up again. How many accounts did you say?
+
+Suspect: There were like 50 bank accounts opened up under your name.",ssn,outgoing,Calling Out Social Security Scammers After They Think They Are Getting Money (youtube.com),Scammer Jammer,1
+"Suspect: Thank you for calling the Social Security Administration. How may I help you today?
+
+Innocent: How you doing? I got a phone call from you all a little bit ago.
+
+Suspect: Yeah, can you tell me what was that call about?
+
+Innocent: Uh, it said that I had to call back because there was something wrong with my social security number.
+
+Suspect: I understand. My department is calling you. Did you receive a case number from our department?
+
+Innocent: Uh, no, I just got a phone number to call you back.
+
+Suspect: All right, miss. You did not receive a case number, so can you help me out with your name and address so I can pull up your case file from my system and explain why your social number was suspended?
+
+Innocent: Yes, my name is Susie.
+
+Suspect: Miss, could you spell out your first and last name?
+
+Innocent: Yes, it's S-U-S-I-E, and my last name is Derkins, D-E-R-K-I-N-S.
+
+Suspect: All right, miss, and your address is?
+
+Innocent: It's 5007 Apartment 4B, Fiddler Avenue, Lakewood, California.
+
+Suspect: Lakewood, California. And your zip code is?
+
+Innocent: 90712.
+
+Suspect: All right, miss. Could you repeat your address again?
+
+Innocent: Yes, it's 5007 Apartment 4B, Fiddler Avenue, Lakewood, California.",ssn,outgoing,Granny Is Giving The SSA Scammers A Hard Time (youtube.com),Scammer Jammer,1
+"Suspect: Publisher in Clearing House here, you're speaking to John Anderson. How can I assist you?
+
+Innocent: Oh, I didn't hear. I didn't catch that. What did you say? Your phone broke up.
+
+Suspect: I'm saying to you, my name is John Anderson, and you're calling the Publisher Clearing House. How can I assist you, sir?
+
+Innocent: Well, I'm calling because I won.
+
+Suspect: Okay, and can you state to me your first and last name along with the claiming code number?
+
+Innocent: Yes, it's David Smith. Suspect: And you have a claim code number, right?
+
+Innocent: Well, I was going to tell you all, when you leave the voicemail, like, there's something wrong with it. It doesn't say the thing. It's all garbage.
+
+Suspect: Okay, Mr. Simmons, that is not a problem. Can you kind of get yourself a clean sheet of paper and I can provide you with some information? When you have the pen and the paper, you just let me know. First thing you're going to write down is my name. Do you remember my name?
+
+Innocent: No, you didn't tell me your name.
+
+Suspect: David Anderson.
+
+Innocent: All right, David Anderson.
+
+Suspect: Yes, you're going to have my badge code number. My badge code number is 8431.
+
+Innocent: All right. And what's this ID thing that you kept saying the time that I couldn't hear on my voicemail?
+
+Suspect: What are you talking about?
+
+Innocent: You asked for the ID code. What's the ID code? I couldn't hear it on my voicemail.
+
+Suspect: I'm saying the code. I'm asking you about a code. Innocent: Yes, what is it? Tell me what it is because I couldn't hear it on the voicemail.
+
+Suspect: It's your serial code check number.
+
+Innocent: Okay, what is that?
+
+Suspect: 314838.
+
+Innocent: All right, so if I called and they ask me for my ID code, that's my winner number. I give that code back?
+
+Suspect: Yes, yes. So, not a problem. I'm going to provide you with some winner information. Okay?
+
+Innocent: All right.
+
+Suspect: You have my name down, and you have my badge code number because remember, I'm your agent.
+
+Innocent: All right.
+
+Suspect: And we're not going to leave the phone line until you receive. So, this is an online delivery, okay, Mr. Smith?
+
+Innocent: All right.
+
+Suspect: And are you home at this time or are you at work?
+
+Innocent: I'm home. I'm retired.
+
+Suspect: Oh, you're retired?
+
+Innocent: Yes.
+
+Suspect: And can you drive?
+
+Innocent: Yes, I still drive. After my wife Gertrude passed away, I live on the insurance money. She had a good insurance policy of $1.5 million. But if I won even more, I mean, I could take that and use it for charity.
+
+Suspect: Okay, not a problem, Mr. Smith. And you have a car for yourself, right?
+
+Innocent: Yes.
+
+Suspect: Okay, not a problem. So you're going to write the name of this company down, Publisher Clearing House, and write down what you have won also.
+
+Innocent: All right, hold on a minute. Publisher Clearing House.
+
+Suspect: And you're going to write down today's date and time you have received this phone call.",reward,outgoing,Scammer KAREN Gets Very ANGRY At Old Man (youtube.com),Scammer Jammer,1
+"Suspect: Hello, can you hear me much better?
+
+Innocent: Oh, much better. Who is this?
+
+Suspect: This is John Miller with the Publisher. You get a publish.
+
+Innocent: Yes. Suspect: and when did you receive that phone call? Innocent: I'm so excited that I won. What happens now?
+
+Suspect: Hello? Yes, David Miller with Publisher Clearing House. Let me take your call.
+
+Innocent: Oh yes, it's Samantha. I won in the Publishers Clearing House. I'm calling to make arrangements.
+
+Suspect: Did you receive a claim number? Check your voicemail.
+
+Innocent: When you check your voicemail, you need to tell Ed McMahon or whoever's in charge to make it clearer on the voicemail. Or maybe it was my phone; it just didn't come through clearly.
+
+Suspect: That's probably your service, that's your reception, dear.
+
+Innocent: Okay, all right. Well, what do I do now? What happens next? I don't know how it works.
+
+Suspect: I'm going to need your name so I can pull up your file.
+
+Innocent: Okay, it's Dy, D-Y.
+
+Suspect: Okay, well, Ms. Dy, I see here in the system where you have been the VIP winner here at Publishers Clearing House for $2.8 million and the Mercedes-Benz car.
+
+Innocent: I'm so excited.
+
+Suspect: Hello? I said you are a winner here at Publishers Clearing House for $2.8 million and the Mercedes-Benz car.
+
+Innocent: I'm so excited. You know, Publishers Clearing House impersonation thieves just got 20 years in jail. Is 20 years good enough for you to stop stealing from innocent victims? Is 20 years behind bars good enough for you?
+
+Suspect: No, you need longer than that.
+
+Innocent: Yes, how do you live with yourself, not working or being anything in life other than a horrible thief that steals elderly people's hard-earned savings? How do you live with yourself as a human being?
+
+Suspect: Can I ask you a question?
+
+Innocent: Yes.
+
+Suspect: How much would you pay to get out of here in Africa? If I called you and asked you to send me some money, if I begged you for some money, would you give it to me? No.
+
+Suspect: Well, no. Nobody gives anybody any money.",reward,outgoing,CONFRONTING A Scammer About Scamming (youtube.com),Scammer Jammer,1
+"Suspect: Uh, can you please confirm for me exactly what the problem is so that I can help you out accordingly?
+
+Innocent: Oh, yes. I just got this code to get started with Prime, register your compatible device, and it's not working. I called this number, and my husband and I have finally decided to cut the cord, but I'm not sure if I'm doing it right.
+
+Suspect: All right, no problem, ma'am. I will help you. Just tell me one thing, ma'am, first of all, do you know what the make of your TV is? The brand of your TV?
+
+Innocent: It's a Samsung TV.
+
+Suspect: All right, ma'am. And just give me a moment. And, um, like how old is this account that you have right now?
+
+Innocent: Uh, between like a month and four years old, something like that.
+
+Suspect: Four years, you said?
+
+Innocent: Yeah, something like that.
+
+Suspect: Yes, so as I can see, ma'am, it's expired, and you've been using this account for more than five years, so we need to go ahead and register you again as well as update your account, ma'am. All right?
+
+Innocent: All right.
+
+Suspect: So in this scenario, you will be able to watch your Amazon Prime on your TV. Otherwise, if we just go with this yearly plan, you can watch Amazon Prime on your phone or on your Kindle. But if we upgrade it to a three-year, five-year, or lifetime plan, we will verify your device, your code to your Amazon account, and then we will verify your device to your Amazon account. After that, we will help you to subscribe to the plan. The other thing is, if you get a new computer or a new TV or if you want to connect it to your Amazon Prime in the future, we will do it as well because you can connect any number of devices. There are no limitations on these updated plans. You can add any device you want, ma'am. If you want to pay for three years, it's $469.99. If you want to go for five years, it's $786, and for a lifetime, it's $999.99.
+
+Innocent: Hold on a minute. Let me go get a pen and write this all down. Hold on. Three years for $369.99, so it's normally—hold on—it's normally $ And then how much is three years? $369?
+
+Suspect: Yes, $369.",support,outgoing,Grandma Tells A Scammer A New Way She Has Been Making Money (youtube.com),Scammer Jammer,1
+"Innocent: Hello?
+
+Suspect: Yes, hello.
+
+Innocent: Hello?
+
+Suspect: Yes, how are you doing, ma'am? This is Peter Anderson from the PCH.
+
+Innocent: I got a message that I won.
+
+Suspect: All right. Who am I speaking with here today?
+
+Innocent: It's Joyce Freedom.
+
+Suspect: Yes, Joyce, Josie Freedom Rich?
+
+Innocent: All right.
+
+Suspect: Do you have a confirmation number, ma'am?
+
+Innocent: Well, the voicemail was very broken. You know, I'm 82 years old and I couldn't hear it.
+
+Suspect: Oh, I just have one question to ask. Innocent: It's better because it's not, um, what's the word, audible.
+
+Suspect: All right, don't worry about that, ma'am. I already have your full name. I'm gonna just pull it up with that, all right?
+
+Innocent: Yes, thank you.
+
+Suspect: Give me a second. All right, are you still there?
+
+Innocent: Yes.
+
+Suspect: Hi, what I have seen here, ma'am, is that you have won a certified check of four and a half million dollars along with $5,000 per week for life and also an S-Class Mercedes-Benz. Congratulations, ma'am. Welcome to financial freedom. Welcome aboard.
+
+Innocent: Will you be calling me, sir? I haven't been a sir since 1972. I'm a woman.
+
+Suspect: Oh, pardon?
+
+Innocent: I'm a woman. You keep calling me sir.
+
+Suspect: Sorry, yes, ma'am. Sorry about that.
+
+Innocent: That's right. I'm a lady.
+
+Suspect: I'm so sorry, ma'am. I'm so sorry about that, ma'am.
+
+Innocent: I'm not your ma'am. You will address me as Queen Dorothy from now on. That is what my clients call me. I'm a very important person and they hire me to call, for them to call me Queen. So you will address me as Queen or Queen Dorothy from now on. Well, what happens now?
+
+Suspect: As I was saying, ma'am, are you willing and interested in having this delivered today?
+
+Innocent: I wasn't expecting to receive company, but I guess I can throw my good mumu on.",reward,outgoing,Scammer Gets Angry And Gives Up After Dealing With Us - YouTube,Scammer Jammer,1
