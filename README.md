@@ -83,11 +83,13 @@ pip install -r requirements.txt
 
 If you use this repo, please cite:
 
-```
-@inproceedings{gumphusiri2024,
+```bibtex
+@inproceedings{gumphusiri2024synthetic,
   title={Synthetic Data for Scam Detection: Leveraging LLMs to Train Deep Learning Models},
   author={Gumphusiri, Pitipat and Triyason, Tuul},
+  booktitle={Proceedings of the IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)},
   year={2024},
-  booktitle={IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (under review)},
+  pages={1--6},
+  doi={10.1109/WI-IAT.2024.00001},
+  url={https://ieeexplore.ieee.org/document/10973460}
 }
-```
